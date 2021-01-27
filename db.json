@@ -1,7 +1,7 @@
 [
   
-  {"nombre":"Pedro", "edad":20, 'hobby': 'ski'}, 
-  {'nombre':"Maria", "edad":21, 'hobby': 'ski2'}, 
-  {'nombre':'Jonas', 'edad':19, 'hobby': 'ski3'}
+  {"nombre":"Pedro", "edad":20, "hobby": "ski"}, 
+  {"nombre":"Maria", "edad":21, "hobby": "ski2"}, 
+  {"nombre":"Jonas", "edad":19, "hobby": "ski3"}
 
 ]
